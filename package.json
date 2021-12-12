@@ -1,0 +1,16 @@
+{
+  "name": "repro-acrylic-drag-issue",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "Takuya",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^16.0.0",
+    "electron-acrylic-window": "^0.5.11"
+  }
+}
